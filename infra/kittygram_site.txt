@@ -1,6 +1,5 @@
-'IP: 51.250.106.102;'
-'name_taski: https://gazone.sytes.net/;'
-'name_kittygram: https://kittiegram.space/;'
-'login: yc-user;'
-'password: 170469;'
- 
+IP: 51.250.106.102;
+name_taski: https://gazone.sytes.net/;
+name_kittygram: https://kittiegram.space/;
+login: yc-user;
+password: 170469; 
